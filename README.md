@@ -1,1 +1,1 @@
-# Maquina de bebidas implementada em python com contagem de troco, estoque.
+# Vending machine in python. Implemented with change, count on stock and admin mode
